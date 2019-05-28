@@ -1,0 +1,24 @@
+{
+  "name": "proyecton1",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Fernando Arango juanfernet007@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfernet007/primera-subida.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juanfernet007/primera-subida/issues"
+  },
+  "homepage": "https://github.com/juanfernet007/primera-subida#readme"
+}

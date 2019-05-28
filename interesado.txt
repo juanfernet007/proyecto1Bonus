@@ -1,0 +1,3 @@
+El estudiante juan 
+ con cédula 11119 
+ se ha matriculado en el curso de Programación que tiene una duración de 40 y un valor de 0
